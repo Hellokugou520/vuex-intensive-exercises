@@ -1,24 +1,5 @@
 # vuex-intensive-exercises
 
-## Project setup
-```
-npm install
-```
+## Vuex 强化练习
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+create date:2021-3-25
